@@ -8,7 +8,8 @@ This is my Wake Tech school account. This repo will serve to hold all my collect
 ## Hobbies, Interests, etc.
 I have many and varied interests that I've built up (part of having ADHD), but in terms of things that have made it past the hyper-fixation stage:
 
-- **Video Games/ Game Development:** I've been passionate about video games every since I could hold a controller. I've actually been in the industry for the past _9 years!_ Unfortunately, the industry is in such a state that I am no longer able to maintain my current trajectory, so I must pursue other options. **_But_** that doesn't mean I've given up my passion.
+- **Video Games/ Game Development:** I've been passionate about video games every since I could hold a controller. I've actually been in the industry for the past _9 years!_ Unfortunately, the industry is in such a state that I am no longer able to maintain my current trajectory, so I must pursue other options. **_But_** that doesn't mean I've given up my passion.\
+
 ![I'm trying](https://i.chzbgr.com/original/6034700288/h5245A444/cheezburger-image-6034700288)
 
 - **Knife shaprening/repair:** A recent hobby that I've picked up. It's a relaxing activity that helps with the stress of the day to day. If you ever need a knife sharpened or repaired, I'm more than happy to do it for a nominal fee.
