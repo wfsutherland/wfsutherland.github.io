@@ -24,7 +24,7 @@ I have many and varied interests that I've built up (part of having ADHD), but i
 - [Udemy] [udemy]: Another great place to learn skills if you're looking for something a bit better than Youtube. Courses can add up, but they go on sale _very_ frequently.
 
 <!--Links in order-->
-[nothoughts]: C:\Users\wdog0\Picturesnothoughts.png
+[nothoughts]: C:\Users\wdog0\Pictures\nothoughts.png
 [Soundcloud link]: https://soundcloud.com/level-up-lofi-192774113
 [youtube]: https://www.youtube.com/
 [udemy]: https://www.udemy.com/
